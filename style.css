@@ -1,0 +1,26 @@
+/* Increase code font size and add subtle shadow */
+.reveal code {
+  font-size: 0.9em;
+  background: rgba(30, 30, 30, 0.8);
+  color: #f8f8f2;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+}
+
+/* Style the code folding button */
+.reveal .code-fold-button {
+  background: #6272a4;
+  color: #f8f8f2;
+  border-radius: 3px;
+}
+
+/* Tweak slide headings */
+.reveal h1, .reveal h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Add a soft background gradient */
+.reveal {
+  background: linear-gradient(135deg, #f0f4f8, #d9e2ec);
+}
