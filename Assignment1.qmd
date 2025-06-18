@@ -306,6 +306,8 @@ In this assignment, I demonstrated a fully reproducible workflow using **data.ta
 
 **5)Presentation & Styling:** I wrapped everything in a Quarto presentation with custom CSS, foldable code, and polished table styling (blue headers, stripes, hover effects), ensuring both readability and visual appeal.
 
+**Note:** All code is reproducible and this submission adheres to STAT40830 Quiz guidelines.
+
 
 
 
